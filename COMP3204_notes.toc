@@ -1,0 +1,2 @@
+\contentsline {section}{L1 - Building Machines That See}{3}{section*.2}
+\contentsline {section}{L7 - Local Features and Matching}{4}{section*.3}
