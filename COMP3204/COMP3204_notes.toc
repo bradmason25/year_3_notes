@@ -1,0 +1,4 @@
+\contentsline {section}{L1 - Building Machines That See}{3}{section*.2}
+\contentsline {section}{L7 - Local Features and Matching}{4}{section*.3}
+\contentsline {section}{L9 - Image Search and Bags of Visual Words}{7}{section*.11}
+\contentsline {section}{L10 - Image Classification and Auto-Annotation}{10}{section*.17}
